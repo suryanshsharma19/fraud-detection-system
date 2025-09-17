@@ -9,7 +9,7 @@
 
 > **A production-grade, real-time fraud detection system** that processes **1.6GB+ of financial transaction data** using ensemble machine learning models with GPU acceleration. Designed for enterprise-scale deployment with **sub-100ms response times**.
 
-## 🎯 **Why This Project Stands Out**
+## **Why This Project Stands Out**
 
 - **🚀 Production Scale**: Handles massive datasets (470MB+ individual files)
 - **⚡ GPU Accelerated**: CUDA-powered training pipeline for enterprise performance  
@@ -18,11 +18,11 @@
 - **🐳 Enterprise Ready**: Docker containerization with multi-service architecture
 - **📈 Scalable Design**: Async API handling thousands of concurrent transactions
 
-## 🎯 Project Overview
+## Project Overview
 
 This enterprise-grade fraud detection system processes **millions of financial transactions** in real-time, identifying fraudulent activity with **96.1% precision**. Built after extensive experimentation with multiple ML approaches, the final solution leverages ensemble methods for maximum robustness.
 
-### 🚀 **Key Capabilities**
+### **Key Capabilities**
 
 | Feature | Specification | Business Value |
 |---------|---------------|----------------|
@@ -34,7 +34,7 @@ This enterprise-grade fraud detection system processes **millions of financial t
 | **🐳 Deployment** | Docker + Docker Compose | One-command production setup |
 | **💾 Data Scale** | 1.6GB+ training datasets | Enterprise-scale validation |
 
-### 🏗️ **System Architecture**
+### **System Architecture**
 
 ```mermaid
 graph TB
@@ -52,9 +52,9 @@ graph TB
 
 
 
-## 📊 **Performance Benchmarks**
+## **Performance Benchmarks**
 
-### 🎯 **Model Performance**
+### **Model Performance**
 | Metric | Score | Industry Benchmark | Status |
 |--------|-------|-------------------|---------|
 | **🎯 Accuracy** | **94.2%** | 85-90% | ✅ **Above Industry** |
@@ -64,13 +64,13 @@ graph TB
 | **📊 ROC-AUC** | **0.97** | 0.85-0.92 | ✅ **Outstanding** |
 
 
-### 🏆 **Technical Achievements**
+### **Technical Achievements**
 - **🎛️ Feature Engineering**: 25+ derived features from raw transaction data
 - **🧠 Model Ensemble**: 3 complementary algorithms for robust predictions
 - **⚡ GPU Acceleration**: 10x faster training on large datasets
 - **🔄 Real-time Processing**: Async architecture handling concurrent requests
 
-## 🛠️ **Technology Stack**
+## 🛠**Technology Stack**
 
 ### 🧠 **Machine Learning & Data Science**
 ```python
@@ -110,7 +110,7 @@ graph TB
 
 
 
-## 🎓 **Key Engineering Insights**
+## **Key Engineering Insights**
 
 ### 🧠 **Technical Decisions & Their Impact**
 
@@ -121,8 +121,6 @@ graph TB
 | **🔧 Feature Engineering** | Domain expertise > raw ML power | **+12% precision increase** |
 | **🐳 Docker Architecture** | Production deployment consistency | **Zero deployment issues** |
 | **⚡ GPU Training** | Large dataset handling capability | **10x faster experimentation** |
-
-### 📈 **Performance Optimization Discoveries**
 
 #### 🎯 **Feature Engineering Breakthroughs**
 - **Cyclical Time Encoding**: Improved temporal pattern recognition by 15%
@@ -139,7 +137,7 @@ graph TB
 - **Structured Logging**: Essential for debugging ML model behavior in production
 - **Feature Store**: Consistent feature computation between training and inference
 
-## 🚀 **Quick Start & Local Setup**
+## **Quick Start & Local Setup**
 
 ### 🏠 **Run Locally** ⭐ *Recommended - Full Experience*
 
@@ -196,7 +194,7 @@ uvicorn src.api.main:app --host 0.0.0.0 --port 8000 --reload
 streamlit run streamlit_app.py
 ```
 
-### 🎯 **What You'll Experience**
+### **What You'll Experience**
 
 | Interface | Purpose | Best For |
 |-----------|---------|-----------|
@@ -232,7 +230,7 @@ curl -X POST http://localhost:8000/predict \
 
 ---
 
-## 📜 **License**
+## **License**
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
