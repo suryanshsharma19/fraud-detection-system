@@ -70,7 +70,7 @@ graph TB
 - **⚡ GPU Acceleration**: 10x faster training on large datasets
 - **🔄 Real-time Processing**: Async architecture handling concurrent requests
 
-## 🛠**Technology Stack**
+## 🛠 **Technology Stack**
 
 ### 🧠 **Machine Learning & Data Science**
 ```python
