@@ -51,19 +51,6 @@ graph TB
 ```
 
 
-
-## **Performance Benchmarks**
-
-### **Model Performance**
-| Metric | Score | Industry Benchmark |
-|--------|-------|-------------------|
-| **🎯 Accuracy** | **94.2%** | 85-90% |
-| **🔍 Precision** | **96.1%** | 90-95% |
-| **📈 Recall** | **92.8%** | 80-85% |
-| **⚖️ F1-Score** | **94.4%** | 85-90% |
-| **📊 ROC-AUC** | **0.97** | 0.85-0.92 |
-
-
 ### **Technical Achievements**
 - **🎛️ Feature Engineering**: 25+ derived features from raw transaction data
 - **🧠 Model Ensemble**: 3 complementary algorithms for robust predictions
