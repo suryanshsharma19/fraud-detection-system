@@ -55,13 +55,13 @@ graph TB
 ## **Performance Benchmarks**
 
 ### **Model Performance**
-| Metric | Score | Industry Benchmark | Status |
-|--------|-------|-------------------|---------|
-| **🎯 Accuracy** | **94.2%** | 85-90% | ✅ **Above Industry** |
-| **🔍 Precision** | **96.1%** | 90-95% | ✅ **Best in Class** |
-| **📈 Recall** | **92.8%** | 80-85% | ✅ **Superior** |
-| **⚖️ F1-Score** | **94.4%** | 85-90% | ✅ **Excellent** |
-| **📊 ROC-AUC** | **0.97** | 0.85-0.92 | ✅ **Outstanding** |
+| Metric | Score | Industry Benchmark |
+|--------|-------|-------------------|
+| **🎯 Accuracy** | **94.2%** | 85-90% |
+| **🔍 Precision** | **96.1%** | 90-95% |
+| **📈 Recall** | **92.8%** | 80-85% |
+| **⚖️ F1-Score** | **94.4%** | 85-90% |
+| **📊 ROC-AUC** | **0.97** | 0.85-0.92 |
 
 
 ### **Technical Achievements**
